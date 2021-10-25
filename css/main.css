@@ -2287,7 +2287,7 @@ ul.social-icons {
 /** SiteBrand(logo) **/
 
 #stickable-header{
-    padding: 18px 0;
+    padding: 10px 0;
     position: relative;
 }
 
@@ -2307,6 +2307,9 @@ ul.social-icons {
     font-weight: 500;
     margin: 0 17px;
     display: block;
+}
+.navbar-brand{
+    padding: 0;
 }
 @media (min-width: 320px) and (max-width: 991.98px) {
     button.navbar-toggler {
@@ -3354,7 +3357,7 @@ span.fmh-meta-line.post-btn {
 
 .hero-area .hero-text h3{}
 .hero-area .hero-text h1{
-    font-size: 64px;
+    font-size: 62px;
     line-height: 1.2;
 }
 .hero-area .hero-text p{
